@@ -1,0 +1,109 @@
+
+.names{
+    display: inline-flex;
+    margin-left: 10%;
+}
+.images{
+    display: inline-flex;
+    margin-left: 5%;
+}
+button{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border-radius: 16%;
+}
+.sentence{
+    text-align: center;
+}
+.vase{
+    margin-right: 5%;
+    display: flex;
+}
+.lines{
+    margin-right: 5%;
+    font-style: oblique;
+    font-size: x-large;
+}
+.straight{
+    font-style: normal;
+}
+.p1{
+    font-size: small;
+    font-style: normal;
+}
+.p2{
+    font-size: small;
+    font-style: normal;
+}
+.p3{
+    font-size: small;
+    font-style: normal;
+}
+.start{
+    border-radius: 20%;
+    padding: 30px;
+    background-color: white;
+    color: black;
+}
+ .anotherlines{
+    margin-left: 5%;
+    font-style: oblique;
+    font-size: x-large; 
+} 
+.againstraight{
+    font-style: normal;
+}
+.p4{
+    font-size: small;
+    font-style: normal;
+}
+.p5{
+    font-size: small;
+    font-style: normal;
+}
+.p6{
+font-size:small ;
+font-style: normal;
+}
+button{
+   padding: 20px; 
+   border-radius: 20%;
+   color: black;
+   background-color: white;
+}
+.carra{
+    font-style: italic;
+}
+.ford{
+    margin-left: 5%;
+    display: flex;
+}
+.h2{
+    font-style: oblique;
+}
+.h3{
+    font-style: oblique;
+}
+.h4{
+    font-style: oblique;
+}
+.phrase{
+    text-align: center;
+}
+.container{
+    margin-left: 50%;
+    margin-top: -30%;
+}
+.icons{
+    margin-left: 20%;
+    display: flex;
+}
+.pieces{
+    margin-left: 20%;
+}
+.reviews{
+    text-align: center;
+}
+
+
